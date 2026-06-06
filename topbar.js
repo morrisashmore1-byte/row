@@ -21,7 +21,7 @@
   display: flex; justify-content: flex-end; align-items: center;
   gap: 8px;
   padding: 10px 14px 8px;
-  padding-top: max(10px, env(safe-area-inset-top));
+  padding-top: max(12px, env(safe-area-inset-top));
   padding-left: max(14px, env(safe-area-inset-left));
   padding-right: max(14px, env(safe-area-inset-right));
   background: #0a0a0b;
